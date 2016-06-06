@@ -1,0 +1,65 @@
+body {
+  font-family: Arial;
+  font-size: 100%;
+  background-color: whitesmoke;
+}
+
+.completed {
+  text-decoration: line-through;
+  margin-left: 18px;
+}
+
+.error {
+  color: red;
+  border: 1px solid red;
+  background-color: pink;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.container {
+  width: 60%;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+.entryForm {
+  display: inline-block;
+  margin: 5px 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 3px;
+  border-bottom: 1px solid whitesmoke;
+}
+
+h2 {
+  background-color: #5C6D84;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 2px;
+  color: white;
+}
+
+.field {
+  border: 1px solid gray;
+  font-size: 1em;
+  border-radius: 2px;
+  margin: 0 5px;
+}
+
+.writeItem {
+  
+}
+
+.submitItem {
+  
+}
